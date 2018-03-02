@@ -1,0 +1,29 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  
+}
+
+.menu div {
+  margin-left: 280px;
+  border: 2px solid black;
+  padding: 50px;
+}
+
+.true {
+  background-color: blue;
+  color: white;
+  border: none;
+}
+
+.products {
+  padding: 200px;
+  width:300px;
+  margin: 0 auto;
+}
+
+.products div {
+  font-size: 20px;
+  border-bottom: 2px dashed black;
+}
